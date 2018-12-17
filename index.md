@@ -1,7 +1,7 @@
 Roberta Capitani
 =======
 About me
---------
+-------
 
 Ciao! Sono Roberta Capitani e in questo spazio vi parlerò un po' di me e di cosa mi piace fare!
 Sono una Game Designer e mi piacciono le storie forti e che trasmettano un qualcosa a chi gioca; infatti i miei progetti tendono tutti alla sensibilizzazione di un argomento particolare e che il giocatore deve conoscere, mi piace il fatto che da quello che gli dico possa ricavare un "insegnamento", o comunque un qualcosa su cui pensare e ragionare!
